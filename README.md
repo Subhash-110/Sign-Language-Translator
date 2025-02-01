@@ -19,4 +19,4 @@ Sign Language Translator is a project which could able to identify signs made by
 3. python app.py
 
 # Questions
-For questions do reach me on <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
+For questions do reach me on <a href="https://www.linkedin.com/in/subhash-valeti-274b9626a/">LinkedIn</a>
